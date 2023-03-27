@@ -1,0 +1,5 @@
+/home/tekuemon/TERASOLUNA_Batch_Framework/gs-batch-processing/initial/src/main/java/com/example/batchprocessing/BatchProcessingApplication.java
+/home/tekuemon/TERASOLUNA_Batch_Framework/gs-batch-processing/initial/src/main/java/com/example/batchprocessing/PersonItemProcessor.java
+/home/tekuemon/TERASOLUNA_Batch_Framework/gs-batch-processing/initial/src/main/java/com/example/batchprocessing/BatchConfiguration.java
+/home/tekuemon/TERASOLUNA_Batch_Framework/gs-batch-processing/initial/src/main/java/com/example/batchprocessing/Person.java
+/home/tekuemon/TERASOLUNA_Batch_Framework/gs-batch-processing/initial/src/main/java/com/example/batchprocessing/JobCompletionNotificationListener.java
