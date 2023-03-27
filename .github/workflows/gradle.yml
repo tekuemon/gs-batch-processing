@@ -23,9 +23,12 @@ jobs:
 
     steps:  
     - name: Check directory
+      run: pwd
+    
+    - name: Change directory
       run: | 
+        cd initial
         pwd
-        ls
     
     - uses: actions/checkout@v3
     - name: Set up JDK 11
